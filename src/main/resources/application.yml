@@ -3,4 +3,4 @@ spring:
     oauth2:
       resourceserver:
         jwt:
-          issuer-uri: https://animatech.eu.auth0.com/
+          issuer-uri: https://dev-kz26g8ah.eu.auth0.com
